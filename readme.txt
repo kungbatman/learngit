@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 haiahi
 sdf 
-create a new branch is quick.
+create a new branch is quick & simple.
